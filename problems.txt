@@ -1,0 +1,4 @@
+1st problem: putting checkboxes next to the data I read from sql
+2nd problem: sending data of the sql to complete order when i press on the icon
+3rd problem: putting pictures next to the loaded data
+4th problem: sql queries are not being able to be retrieved from sql
